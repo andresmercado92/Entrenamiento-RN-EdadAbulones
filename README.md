@@ -27,10 +27,10 @@ Con este dataset entrenaremos la red neuronal para la predicción de edad del ab
   <tr>
     <td>Longitud</td>
     <td>continua</td>
+    <td>mm</td>
     <td>Medida de concha más larga</td>
-    <td>-</td>
   </tr>
-    <tr>
+  <tr>
     <td>Diámetro</td>
     <td>continua</td>
     <td>mm</td>
