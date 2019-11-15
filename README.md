@@ -22,7 +22,7 @@ Con este dataset entrenaremos la red neuronal para la predicción de edad del ab
     <td>Sexo</td>
     <td>nominal</td>
     <td>-<td>
-    M, F y I (infantil)
+    M, F y I (Infante)
   </tr>
   <tr>
     <td>Longitud</td>
