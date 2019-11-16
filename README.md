@@ -13,7 +13,7 @@ Los integrantes del trabajo final son:
 
 # Dataset usado para el entrenamiento de la RN.
 El conjunto de datos puede encontrarse en el siguiente enlace:
-<li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
+<li> https://archive.ics.uci.edu/ml/datasets/abalone </li><br>
 
 <strong>Donante de la base de datos al repositorio</strong>
 <li> Sam Waugh (Sam.Waugh@cs.utas.edu.au)</li>
