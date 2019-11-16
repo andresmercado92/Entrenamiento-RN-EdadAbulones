@@ -4,12 +4,12 @@ Trabajo final para la asignatura de Inteligencia Artificial. La actividad consis
 <strong> La docente a cargo de esta asignatura es PhD. Ing. Idanis Diaz Bolaño </strong>
 
 Los integrantes del trabajo final son:
-
-Mauricio Rodríguez Díaz Cod. 2011114131
-Carmen Daly Vega Pérez Cod.
-Andrés Mercado Niño Cod.
-Paula Hernandez Vazquez Cod.
-
+<table>
+<tr>Mauricio Rodríguez Díaz Cod. 2011114131</tr>
+<tr>Carmen Daly Vega Pérez Cod.</tr>
+<tr>Andrés Mercado Niño Cod.</tr>
+<tr>Paula Hernandez Vazquez Cod.</tr>
+</table>
 # Dataset usado para el entrenamiento de la RN.
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
 
