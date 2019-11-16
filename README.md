@@ -17,9 +17,7 @@ El conjunto de datos puede encontrarse en el siguiente enlace:
 
 <strong>Donante de la base de datos al repositorio</strong>
 <li> Sam Waugh (Sam.Waugh@cs.utas.edu.au)</li>
-<li>Department of Computer Science, University of Tasmania</li>
-
-
+<li>Department of Computer Science, University of Tasmania</li><br>
 Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
 
 
