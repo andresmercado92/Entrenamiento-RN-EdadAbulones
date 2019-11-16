@@ -30,7 +30,7 @@ Con este conjunto de datos entrenaremos la red neuronal para la predicción de e
 
 
 <h3>Informacion de los atributos del conjunto de datos: </h3>
-<p>Se proporciona el nombre del atributo, el tipo de atributo, la unidad de medida y una breve descripción. El número de anillos es el valor a predecir: ya sea como un valor continuo o como un problema de clasificación.</p><br>
+<p>Se proporciona el nombre del atributo, el tipo de atributo, la unidad de medida y una breve descripción. El número de anillos es el valor a predecir: ya sea como un valor continuo o como un problema de clasificación.</p>
 En este entrenamiento utilizaremos el conjunto de datos como un problema de clasificación.
 <table>
   <tr>
