@@ -2,7 +2,9 @@
 Trabajo final para la asignatura de Inteligencia Artificial. La actividad consiste en entrenar una red neuronal con un dataset público y mediante de un informe mostrar los resultados. 
 
 <strong> La docente a cargo de esta asignatura es PhD. Ing. Idanis Diaz Bolaño </strong>
+
 Los integrantes del trabajo final son:
+
 Mauricio Rodríguez Díaz Cod. 2011114131
 Carmen Daly Vega Pérez Cod.
 Andrés Mercado Niño Cod.
