@@ -5,10 +5,18 @@ Trabajo final para la asignatura de Inteligencia Artificial. La actividad consis
 
 Los integrantes del trabajo final son:
 <table>
-  <tr><td>Mauricio Rodríguez Díaz</td><td> Cod. 2011114131</td></tr>
-  <tr><td>Carmen Daly Vega Pérez</td><td> Cod.</td></tr>
-<tr><td>Andrés Mercado Niño</td><td> Cod.</td></tr>
-<tr><td>Paula Hernandez Vazquez</td><td> Cod.</td></tr>
+  <tr>
+    <td>Mauricio Rodríguez Díaz</td><td> Cod. 2011114131</td>
+  </tr>
+  <tr>
+    <td>Carmen Daly Vega Pérez</td><td> Cod.</td>
+  </tr>
+  <tr>
+    <td>Andrés Mercado Niño</td><td> Cod.</td>
+  </tr>
+  <tr>
+    <td>Paula Hernandez Vazquez</td><td> Cod.</td>
+  </tr>
 </table>
 
 # Dataset usado para el entrenamiento de la RN.
