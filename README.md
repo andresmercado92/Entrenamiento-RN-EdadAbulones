@@ -5,7 +5,7 @@ Trabajo final para la asignatura de Inteligencia Artificial. La actividad consis
 
 Los integrantes del trabajo final son:
 <table>
-<tr>Mauricio Rodríguez Díaz Cod. 2011114131</tr>
+  <tr><td>Mauricio Rodríguez Díaz Cod. 2011114131</td></tr>
 <tr>Carmen Daly Vega Pérez Cod.</tr>
 <tr>Andrés Mercado Niño Cod.</tr>
 <tr>Paula Hernandez Vazquez Cod.</tr>
