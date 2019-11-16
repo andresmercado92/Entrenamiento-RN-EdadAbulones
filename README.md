@@ -127,7 +127,7 @@ Con este conjunto de datos entrenaremos la red neuronal para la predicción de e
        entero
     </td>
     <td>
-      Años
+      -
     </td>
     <td>
       +1.5 da la edad en años
