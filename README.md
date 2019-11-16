@@ -14,7 +14,9 @@ Los integrantes del trabajo final son:
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
 
 Donante de la base de datos al repositorio
+
 Sam Waugh (Sam.Waugh@cs.utas.edu.au)
+
 Department of Computer Science, University of Tasmania
 
 Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
@@ -125,7 +127,7 @@ Con este conjunto de datos entrenaremos la red neuronal para la predicción de e
        entero
     </td>
     <td>
-      -
+      Años
     </td>
     <td>
       +1.5 da la edad en años
