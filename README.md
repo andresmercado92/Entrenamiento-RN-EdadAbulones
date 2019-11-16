@@ -10,13 +10,13 @@ Los integrantes del trabajo final son:
 <tr><td>Andrés Mercado Niño</td><td> Cod.</td></tr>
 <tr><td>Paula Hernandez Vazquez</td><td> Cod.</td></tr>
 </table>
+
 # Dataset usado para el entrenamiento de la RN.
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
 
-# Donante de la base de datos al repositorio
+<strong>Donante de la base de datos al repositorio</strong>
 <li> Sam Waugh (Sam.Waugh@cs.utas.edu.au)</li>
-
-  Department of Computer Science, University of Tasmania
+<li>Department of Computer Science, University of Tasmania</li>
 
  Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
 
