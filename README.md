@@ -13,13 +13,12 @@ Los integrantes del trabajo final son:
 # Dataset usado para el entrenamiento de la RN.
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
 
-Donante de la base de datos al repositorio
+# Donante de la base de datos al repositorio
+<li> Sam Waugh (Sam.Waugh@cs.utas.edu.au)</li>
 
-Sam Waugh (Sam.Waugh@cs.utas.edu.au)
+  Department of Computer Science, University of Tasmania
 
-Department of Computer Science, University of Tasmania
-
-Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
+ Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
 
 
 <h3>Informacion de los atributos del dataset: </h3>
