@@ -19,7 +19,7 @@ Los integrantes del trabajo final son:
   </tr>
 </table>
 
-# Dataset usado para el entrenamiento de la RN.
+# Conjunto de datos usado para el entrenamiento de la RN.
 El conjunto de datos puede encontrarse en el siguiente enlace:
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li><br>
 
@@ -29,8 +29,9 @@ El conjunto de datos puede encontrarse en el siguiente enlace:
 Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
 
 
-<h3>Informacion de los atributos del dataset: </h3>
-<p>Se proporciona el nombre del atributo, el tipo de atributo, la unidad de medida y una breve descripción. El número de anillos es el valor a predecir: ya sea como un valor continuo o como un problema de clasificación.</p>
+<h3>Informacion de los atributos del conjunto de datos: </h3>
+<p>Se proporciona el nombre del atributo, el tipo de atributo, la unidad de medida y una breve descripción. El número de anillos es el valor a predecir: ya sea como un valor continuo o como un problema de clasificación.</p><br>
+En este entrenamiento utilizaremos el conjunto de datos como un problema de clasificación.
 <table>
   <tr>
     <td><strong>Nombre</strong></td>
