@@ -1,5 +1,5 @@
 # Entrenamiento-RN-EdadAbulones
-Trabajo final para la asignatura de Inteligencia Artificial. La actividad consiste en entrenar una red neuronal con un dataset público y mediante de un informe mostrar los resultados. 
+Trabajo final para la asignatura de Inteligencia Artificial. La actividad consiste en entrenar una red neuronal con un conjunto de datos público y mediante de un informe mostrar los resultados. 
 
 <strong> La docente a cargo de esta asignatura es PhD. Ing. Idanis Diaz Bolaño </strong>
 
@@ -31,7 +31,6 @@ Con este conjunto de datos entrenaremos la red neuronal para la predicción de e
 
 <h3>Informacion de los atributos del conjunto de datos: </h3>
 <p>Se proporciona el nombre del atributo, el tipo de atributo, la unidad de medida y una breve descripción. El número de anillos es el valor a predecir: ya sea como un valor continuo o como un problema de clasificación.</p>
-En este entrenamiento utilizaremos el conjunto de datos como un problema de clasificación.
 <table>
   <tr>
     <td><strong>Nombre</strong></td>
