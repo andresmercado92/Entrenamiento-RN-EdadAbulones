@@ -1,12 +1,21 @@
 # Entrenamiento-RN-EdadAbulones
-Trabajo final para la asignatura de Inteligencia Artificial, la actividad consiste en entrenar una red neuronal con un dataset publico y a traves de un informe mostrar los resultados. 
+Trabajo final para la asignatura de Inteligencia Artificial. La actividad consiste en entrenar una red neuronal con un dataset público y mediante de un informe mostrar los resultados. 
 
-<strong> La docente a cargo de esta asignatura es PhD. Ing. Idanis Diaz B. </strong>
+<strong> La docente a cargo de esta asignatura es PhD. Ing. Idanis Diaz Bolaño </strong>
+Los integrantes del trabajo final son:
+Mauricio Rodríguez Díaz Cod. 2011114131
+Carmen Daly Vega Pérez Cod.
+Andrés Mercado Niño Cod.
+Paula Hernandez Vazquez Cod.
 
 # Dataset usado para el entrenamiento de la RN.
 <li> https://archive.ics.uci.edu/ml/datasets/abalone </li>
 
-Con este dataset entrenaremos la red neuronal para la predicción de edad del abulón. (Mas informacion en el enlace del dataset).
+Donante de la base de datos al repositorio
+Sam Waugh (Sam.Waugh@cs.utas.edu.au)
+Department of Computer Science, University of Tasmania
+
+Con este conjunto de datos entrenaremos la red neuronal para la predicción de edad del abulón. (Más informacion en el enlace).
 
 
 <h3>Informacion de los atributos del dataset: </h3>
@@ -26,13 +35,13 @@ Con este dataset entrenaremos la red neuronal para la predicción de edad del ab
   </tr>
   <tr>
     <td>Longitud</td>
-    <td>continua</td>
+    <td>continuo</td>
     <td>mm</td>
     <td>Medida de concha más larga</td>
   </tr>
   <tr>
     <td>Diámetro</td>
-    <td>continua</td>
+    <td>continuo</td>
     <td>mm</td>
     <td>perpendicular a la longitud</td>
   </tr>
@@ -41,7 +50,7 @@ Con este dataset entrenaremos la red neuronal para la predicción de edad del ab
       Altura
     </td>
     <td>
-      continua
+      continuo
     </td>
     <td>
       mm
